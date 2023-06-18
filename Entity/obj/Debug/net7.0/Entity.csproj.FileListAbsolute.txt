@@ -1,0 +1,14 @@
+C:\Users\Cavid\source\repos\FinalProject\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\Cavid\source\repos\FinalProject\Entity\bin\Debug\net7.0\Entity.runtimeconfig.json
+C:\Users\Cavid\source\repos\FinalProject\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\Cavid\source\repos\FinalProject\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\Entity.genruntimeconfig.cache
+C:\Users\Cavid\source\repos\FinalProject\Entity\obj\Debug\net7.0\ref\Entity.dll
