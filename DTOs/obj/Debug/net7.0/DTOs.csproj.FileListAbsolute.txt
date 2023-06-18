@@ -1,0 +1,12 @@
+C:\Users\Cavid\source\repos\FinalProject\DTOs\bin\Debug\net7.0\DTOs.deps.json
+C:\Users\Cavid\source\repos\FinalProject\DTOs\bin\Debug\net7.0\DTOs.dll
+C:\Users\Cavid\source\repos\FinalProject\DTOs\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.dll
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.pdb
+C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\ref\DTOs.dll
