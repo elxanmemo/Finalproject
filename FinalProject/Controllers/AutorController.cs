@@ -16,6 +16,7 @@ namespace FinalProject.Controllers
         }
         [HttpPost]
         public IActionResult Get([FromBody] AutorToGetDto dto)
+        
         {
             if (_services.Get(dto))
             {
@@ -24,6 +25,22 @@ namespace FinalProject.Controllers
             else
             {
                 return Unauthorized(new { message = "Invalid username or password" });
+            }
+        
+        
+        }
+        [HttpPost("Login")]
+        public IActionResult Add([FromBody] AutorRegistrationAddDto dto)
+        {
+           
+
+            if (_services.Add(dto))
+            {
+                return Ok(new { message = "Sign Up successful!" });
+            }
+            else
+            {
+                return Unauthorized(new { message = "Username or password is already exists" });
             }
         }
     }

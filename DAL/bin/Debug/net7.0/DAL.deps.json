@@ -270,7 +270,8 @@
       "DTOs/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Entity": "1.0.0"
         },
         "runtime": {
           "DTOs.dll": {}
