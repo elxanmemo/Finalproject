@@ -1,5 +1,7 @@
+using AutoMapper;
 using BLL.Abstract;
 using BLL.Concrete;
+using BLL.Mapper;
 using DAL.Abstract;
 using DAL.Concrete;
 using DAL.DataContext;
@@ -13,9 +15,12 @@ builder.Services.AddDbContext<MyDataContext>(options => {
 });
 
 
-builder.Services.AddAutoMapper(typeof(MyDataContext));
+builder.Services.AddAutoMapper(typeof(CustomMapper));
 builder.Services.AddScoped<IAutorRepository, AutorRepository>();
 builder.Services.AddScoped<IAutorServices, AutorServices>();
+builder.Services.AddScoped<ICVRepository, CVRepository>();
+builder.Services.AddScoped<ICVServices, CVServices>();
+
 
 //builder.Services.AddDbContext<MyDataContext>(opt =>
 //{
