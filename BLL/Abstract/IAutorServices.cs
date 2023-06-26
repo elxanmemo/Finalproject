@@ -12,6 +12,5 @@ namespace BLL.Abstract
     public interface IAutorServices
     {
         public bool Get(AutorToGetDto dto);
-        public bool Add(AutorRegistrationAddDto dto);
     }
 }

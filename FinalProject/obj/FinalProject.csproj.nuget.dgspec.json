@@ -195,11 +195,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\Cavid\\source\\repos\\FinalProject\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Cavid\\source\\repos\\FinalProject\\Entity\\Entity.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
