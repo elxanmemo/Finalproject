@@ -2,7 +2,6 @@
 using BLL.Abstract;
 using DAL.Abstract;
 using DTOs.Autor;
-using Entity.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,13 +19,7 @@ namespace BLL.Concrete
             _repositor= repository;
             _mapper= mapper;
         }
-
-        public  bool Add(AutorRegistrationAddDto dto)
-        {
-           User user= _mapper.Map<User>(dto);
-          return _repositor.Add(user);
-
-        }
+        
 
         public bool Get(AutorToGetDto dto)
         {

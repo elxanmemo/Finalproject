@@ -1,5 +1,4 @@
 ﻿using DTOs.Autor;
-using Entity.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +10,6 @@ namespace DAL.Abstract
     public interface IAutorRepository
     {
         public bool Get(AutorToGetDto dto);
-        public bool Add(User user);
 
     }
 }

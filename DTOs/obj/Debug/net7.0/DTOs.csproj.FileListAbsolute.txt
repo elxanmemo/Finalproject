@@ -10,6 +10,3 @@ C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.dll
 C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\refint\DTOs.dll
 C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.pdb
 C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\ref\DTOs.dll
-C:\Users\Cavid\source\repos\FinalProject\DTOs\bin\Debug\net7.0\Entity.dll
-C:\Users\Cavid\source\repos\FinalProject\DTOs\bin\Debug\net7.0\Entity.pdb
-C:\Users\Cavid\source\repos\FinalProject\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete

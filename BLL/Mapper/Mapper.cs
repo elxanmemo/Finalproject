@@ -1,7 +1,4 @@
 ﻿using AutoMapper;
-using DTOs.Autor;
-using DTOs.CV;
-using Entity.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,13 +7,11 @@ using System.Threading.Tasks;
 
 namespace BLL.Mapper
 {
-    public class CustomMapper :Profile
+    public class Mapper:Profile
     {
-        public CustomMapper()
+        public Mapper()
         {
-             CreateMap<AutorRegistrationAddDto, User>();
-            CreateMap<CVAddDto, CVInfo>();
-            CreateMap<CVInfo, CVAddDto>();
+            //CreateMap<>
         }
     }
 }
